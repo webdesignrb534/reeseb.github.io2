@@ -1,24 +1,4 @@
-table {
-width: 80%;
-margin: 20px auto;
-border-collapse: collapse;
-font-family: Arial, sans-serif;
-}
 
-th, td {
-border: 1px solid #333;
-padding: 10px;
-text-align: center;
-}
-
-th {
-background-color: #555;
-color: white;
-}
-
-tr:hover {
-background-color: #f2f2f2;
-}
 
 <!DOCTYPE html>
 <html lang="en">
