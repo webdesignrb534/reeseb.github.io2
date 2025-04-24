@@ -4,7 +4,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Golf Scorecard</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -37,7 +36,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Bowling Scorecard</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -69,7 +67,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Baseball Scorecard</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
